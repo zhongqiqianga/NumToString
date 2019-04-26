@@ -36,13 +36,14 @@ public class ChineseToNum {
      * @paramsen
      */
     public String preProcess(String str) {
-        if (str.indexOf("加") != -1 || str.indexOf("减") != -1 || str.indexOf("乘") != -1 || str.indexOf("除") != -1) {
-            str = sentenceSolve(str);
-
-        } else {
-            str = (String.valueOf(numberCN2Arab(str)));
-
-        }
+//        if (str.indexOf("加") != -1 || str.indexOf("减") != -1 || str.indexOf("乘") != -1 || str.indexOf("除") != -1) {
+//            str = sentenceSolve(str);
+//
+//        } else {
+//            str = (String.valueOf(numberCN2Arab(str)));
+//
+//        }
+        str = sentenceSolve(str);
         return str;
     }
 

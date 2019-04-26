@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java" line="226" />
+    <bookmark url="file://$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java" line="227" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51ac4488-a869-4492-8218-656922e45ddb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com.aisp.datacom/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.aisp.datacom/src/ChinaToNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com.aisp.datacom/src/DataCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.aisp.datacom/src/DataCom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/com.aisp.datacom/ChineseToNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/com.aisp.datacom/ChineseToNum.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/DataCom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="111" selection-start-line="111" selection-end-line="111" />
+            <state relative-caret-position="323">
+              <caret line="17" column="43" selection-end-line="143" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,17 +35,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/ChinaToNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="241" column="37" lean-forward="true" selection-start-line="241" selection-start-column="37" selection-end-line="241" selection-end-column="37" />
+            <state relative-caret-position="19">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,7 +99,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="38" />
     <option name="y" value="124" />
     <option name="width" value="1717" />
@@ -112,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,19 +117,31 @@
               <item name="DataCom" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataCom" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataCom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataCom" type="462c0819:PsiDirectoryNode" />
+              <item name="com.aisp.datacom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataCom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataCom" type="462c0819:PsiDirectoryNode" />
+              <item name="com.aisp.datacom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555930004005" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556001938159" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project/kg" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -195,18 +204,19 @@
       <workItem from="1555898066596" duration="6260000" />
       <workItem from="1555905123978" duration="173000" />
       <workItem from="1555905599377" duration="7393000" />
-      <workItem from="1555923194257" duration="3971000" />
+      <workItem from="1555923194257" duration="5012000" />
+      <workItem from="1556000668617" duration="17000" />
+      <workItem from="1556001902388" duration="65000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72109000" />
+    <option name="totallyTimeSpent" value="73232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1018" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.12873931" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.13194445" />
       <window_info id="Structure" order="1" sideWeight="0.5021645" side_tool="true" weight="0.25747862" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,7 +225,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5016892" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74893165" visible="true" weight="0.07491487" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.74893165" visible="true" weight="0.20204313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -248,25 +258,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/ChinaToNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/DataCom.java">
+    <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        <state relative-caret-position="19">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/ChineseToNum.java">
+    <entry file="file://$PROJECT_DIR$/com.aisp.datacom/src/DataCom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="241" column="37" lean-forward="true" selection-start-line="241" selection-start-column="37" selection-end-line="241" selection-end-column="37" />
+        <state relative-caret-position="323">
+          <caret line="17" column="43" selection-end-line="143" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
